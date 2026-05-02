@@ -10,3 +10,4 @@ Requirements for this app are:
     the ability to push a button
     sense of humor
 
+Credits to Outfit7 :3
